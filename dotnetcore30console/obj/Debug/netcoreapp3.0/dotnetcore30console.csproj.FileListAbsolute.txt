@@ -1,0 +1,12 @@
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\bin\Debug\netcoreapp3.0\dotnetcore30console.exe
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\bin\Debug\netcoreapp3.0\dotnetcore30console.deps.json
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\bin\Debug\netcoreapp3.0\dotnetcore30console.runtimeconfig.json
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\bin\Debug\netcoreapp3.0\dotnetcore30console.runtimeconfig.dev.json
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\bin\Debug\netcoreapp3.0\dotnetcore30console.dll
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\bin\Debug\netcoreapp3.0\dotnetcore30console.pdb
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\obj\Debug\netcoreapp3.0\dotnetcore30console.csprojAssemblyReference.cache
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\obj\Debug\netcoreapp3.0\dotnetcore30console.csproj.CoreCompileInputs.cache
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\obj\Debug\netcoreapp3.0\dotnetcore30console.AssemblyInfoInputs.cache
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\obj\Debug\netcoreapp3.0\dotnetcore30console.AssemblyInfo.cs
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\obj\Debug\netcoreapp3.0\dotnetcore30console.dll
+C:\Users\patle\source\repos\dotnetcore30console\dotnetcore30console\obj\Debug\netcoreapp3.0\dotnetcore30console.pdb
